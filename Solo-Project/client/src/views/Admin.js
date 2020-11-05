@@ -105,6 +105,6 @@ export default(props) => {
     </Card.Footer>
   </Card>
 </CardDeck>
-        </div>
+        </div>//asdsa
     ));
 }
